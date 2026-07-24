@@ -50,7 +50,6 @@ I'm **Sheva Arzadina Hizbullah Kurniawan**, an Informatics student at **Politekn
 **💻 Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0EA5E9?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white)
 
 **📊 Data Science**
